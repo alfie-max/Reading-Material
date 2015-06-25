@@ -1,0 +1,3 @@
+http://www.sitepoint.com/series/comparing-ruby-background-processing-libraries/
+
+https://github.com/alfie-max/Hobby-Projects/blob/master/one_liners.md
